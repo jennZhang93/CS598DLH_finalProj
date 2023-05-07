@@ -7,8 +7,8 @@
 - Author's repo link: https://github.com/yejinjkim/drug-repurposing-graph 
 
 ## Data
-- The mentioned 3 CTD datasets can be found under `data/CTD`. The most up-to-date data CTD data can be downloaded from [CTDbase] (http://ctdbase.org/detail.go?type=disease&acc=MESH%3AD000086382)
-- The mentioned virus-host protein-protein interaction data from a [Nature] (https://www.nature.com/articles/s41586-020-2286-9#Sec36) publication by Gordon et al. can be found under `data/biology-database`.
+- The mentioned 3 CTD datasets can be found under `data/CTD`. The most up-to-date data CTD data can be downloaded from [CTDbase](http://ctdbase.org/detail.go?type=disease&acc=MESH%3AD000086382)
+- The mentioned virus-host protein-protein interaction data from a [Nature](https://www.nature.com/articles/s41586-020-2286-9#Sec36) publication by Gordon et al. can be found under `data/biology-database`.
 - The mentioned pre-trained [DRKG embedding](https://github.com/gnn4dr/DRKG) can be downloaded from the link repo.
 
 ## Instructions
