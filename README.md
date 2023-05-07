@@ -1,4 +1,4 @@
-# CS598DLH_finalProj
+# CS598DLH Final Project
 - This is the repo for UIUC CS598 Deep Learning for Healthcare final project. 
 - Group ID 52. Members are Youyou Zhang and Siwei Zhang.
 
