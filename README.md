@@ -14,4 +14,4 @@
 ## Instructions
 - Run `preprocessing.ipynb` to process all raw data and export as a pickle file.
 - Run `graph-representation-ranking.ipynb` to builds a SARS-CoV-2 knowledge graph and built an initial ranking model that predicts antiviral effectiveness.
-- Run `graph-representation-ranking-hybird.ipynb` to 
+- Run `graph-representation-ranking-hybird.ipynb` to construct a knowledge graph for SARS-CoV-2 and a hybrid knowledge graph, and to develop ranking models using diverse knowledge graphs and algorithms.
